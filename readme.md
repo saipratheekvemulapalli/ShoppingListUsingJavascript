@@ -11,7 +11,7 @@ This is a simple To-Do List application built using HTML, CSS, and JavaScript. T
 
 ## Demo
 
-[Link to the live demo] (https://saipratheekvemulapalli.github.io/TODOListUsingJavascript/)
+[Click here to visit](https://saipratheekvemulapalli.github.io/TODOListUsingJavascript/)
 
 
 
