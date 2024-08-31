@@ -1,9 +1,31 @@
-# Shopping List
+# To-Do List Application
 
-Vanilla JavaScript shopping list app from my Modern JS From The Beginning course.
+This is a simple To-Do List application built using HTML, CSS, and JavaScript. The app allows users to add tasks, mark them as complete, and delete them.
 
-This project was created to focus on working with the DOM, events, state, local storage and other fundamentals of JavaScript.
+## Features
 
-<img src="images/screen.png" width="400">
+- Add new tasks
+- Mark tasks as complete/incomplete
+- Delete tasks
+- Local storage support to save tasks between sessions
 
-Demo: https://stately-bienenstitch-82199a.netlify.app/
+## Demo
+
+[Link to the live demo](#) ()
+
+
+
+## Getting Started
+
+### Prerequisites
+
+- A modern web browser (Chrome, Firefox, Edge, etc.)
+- Basic knowledge of HTML, CSS, and JavaScript
+
+### Installation
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/yourusername/todo-list.git
+
